@@ -1,2 +1,54 @@
-# TrailForge
- TrailForge is a professional tour booking platform designed to manage and showcase adventure trips, hiking tours, and nature experiences. Built with Node.js and MongoDB, it combines powerful back-end logic with a clean user interface and a secure booking system.
+# TrailForge 🥾
+
+**TrailForge** is a modern tour booking platform for adventurous travelers. Whether you're looking to explore mountains, forests, or hidden natural trails — TrailForge connects users to unique guided experiences with ease.
+
+---
+
+## 💼 Real-World Use Case
+
+This project simulates a real-world production app:
+- Admins manage tours, users, and reviews
+- Users can sign up, log in, write reviews, and book tours
+- Data is stored securely and routes are protected with advanced authentication
+
+---
+
+## 🔧 Built With
+
+- **Node.js + Express.js** – REST API & server logic
+- **MongoDB + Mongoose** – Flexible NoSQL data storage
+- **Pug** – Server-side rendering
+- **JWT Authentication** – Secure session management
+- **Multer** – For uploading and resizing profile images
+- **Mapbox/MapLibre** – Interactive maps for tour locations
+
+---
+
+## ✨ Features
+
+- User registration, login, and JWT authentication
+- Upload and update user profile photos
+- Password reset and email notifications
+- Filter, sort, search, and paginate tours
+- Ratings and reviews system
+- Secure admin dashboard for managing users and tours
+- Stripe integration ready for payment
+- Full MVC architecture
+
+---
+
+## 🛠️ Run Locally
+
+```bash
+cd trailforge
+npm install
+Add a .env file with your environment variables (Mongo URI, JWT secret, etc.)
+
+bash
+Copy
+Edit
+npm start
+Developer
+Momen Abdelraouf Elshamy
+Computer Science Student – AOU
+MERN Stack Developer in progress
