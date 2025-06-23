@@ -36,19 +36,3 @@ This project simulates a real-world production app:
 - Full MVC architecture
 
 ---
-
-## 🛠️ Run Locally
-
-```bash
-cd trailforge
-npm install
-Add a .env file with your environment variables (Mongo URI, JWT secret, etc.)
-
-bash
-Copy
-Edit
-npm start
-Developer
-Momen Abdelraouf Elshamy
-Computer Science Student – AOU
-MERN Stack Developer in progress
